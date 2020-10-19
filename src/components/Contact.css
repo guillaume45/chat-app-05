@@ -25,6 +25,7 @@
   color: #999;
   margin: 0;
   display: inline-block;
+  cursor: pointer;
 }
 
 /* Status (rounded&colored indicator) */
